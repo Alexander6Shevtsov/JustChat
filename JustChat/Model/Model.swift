@@ -5,4 +5,12 @@
 //  Created by Alexander Shevtsov on 28.02.2025.
 //
 
-import Foundation
+import UIKit
+
+struct Slides {
+    var id: Int
+    var text: String
+    var img: UIImage
+}
+
+
